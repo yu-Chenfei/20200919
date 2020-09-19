@@ -1,0 +1,27 @@
+{
+  "name": "20200919",
+  "version": "1.0.0",
+  "description": "20200919第一个项目",
+  "main": "index.js",
+  "scripts": {
+    "less": "lessc index.less index.min.css -x",
+    "xxx": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yu-Chenfei/20200919.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yu-Chenfei/20200919/issues"
+  },
+  "homepage": "https://github.com/yu-Chenfei/20200919#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.0",
+    "jquery": "^3.5.1",
+    "less": "^3.12.2",
+    "swiper": "^6.2.0"
+  }
+}
